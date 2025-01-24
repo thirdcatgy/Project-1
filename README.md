@@ -12,7 +12,8 @@ The goal of this project is to make the HTML, CSS, and JavaScript code of the Tr
 ## Gist Links
 
 ### HTML Code
-- [HTML Code](https://gist.github.com/thirdcatgy/dfd7065d44d462d8198cd48c4930a9e3)
+- [HTML Code Part 1](./TriValleyPlasticSurgery-HTML_1.txt)
+- [HTML Code Part 2](./TriValleyPlasticSurgery-HTML_2.txt)
 
 ### CSS Code
 - [CSS Code 1](https://gist.github.com/thirdcatgy/70fcda274ae90d5e358e69e47d67ed76)

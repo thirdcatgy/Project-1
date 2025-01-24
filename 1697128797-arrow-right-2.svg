@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:v="https://vecta.io/nano" width="53" height="53" fill="none">
+  <circle cx="26.5" cy="26.5" r="26" stroke="#000"/>
+  <path fill-rule="evenodd" d="M38.58 26.401c.067-.05.067-.151 0-.201l-9.905-7.352c-.082-.061-.2-.002-.2.1v6.352H15.311a1 1 0 1 0 0 2h13.165v6.352c0 .103.117.162.2.1l9.905-7.352z" fill="#000"/>
+</svg>
